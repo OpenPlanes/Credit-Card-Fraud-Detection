@@ -7,3 +7,7 @@ There exists a wide variety of scenarios that may lead a fraudster to successful
 Credit card fraud detection (CCFD) is like looking for needles in a haystack. It requires finding, out of millions of daily transactions, which ones are fraudulent. Due to the ever-increasing amount of data, it is now almost impossible for a human specialist to detect meaningful patterns from transaction data. For this reason, the use of machine learning techniques is now widespread in the field of fraud detection, where information extraction from large datasets is required.
 
 Machine Learning (ML) is the study of algorithms that improve automatically through experience. ML is closely related to the fields of Statistics, Pattern Recognition, and Data Mining. At the same time, it emerges as a subfield of computer science and artificial intelligence and gives special attention to the algorithmic part of the knowledge extraction process. ML plays a key role in many scientific disciplines and its applications are part of our daily life. It is used for example to filter spam email, for weather prediction, in medical diagnosis, product recommendation, face detection, fraud detection. 
+
+Baseline Fraud Detection
+
+![image](https://github.com/user-attachments/assets/a4599b8d-f4af-4bd5-8971-c06250750862)
