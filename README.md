@@ -11,3 +11,6 @@ Machine Learning (ML) is the study of algorithms that improve automatically thro
 Baseline Fraud Detection
 
 ![image](https://github.com/user-attachments/assets/a4599b8d-f4af-4bd5-8971-c06250750862)
+
+Context
+It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
